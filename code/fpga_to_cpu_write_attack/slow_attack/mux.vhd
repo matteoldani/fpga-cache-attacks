@@ -4,6 +4,7 @@
 -- Create Date: 10/24/2022 02:34:06 PM
 -- Design Name: Multiplexer
 -- Module Name: mux - Behavioral
+-- Project Name: Semester project Fall 2022
 -- Description: Multiplexer used allow the Attacker IP to issues write transactions 
                 both with the WSTRB set to the correct value and set to b'0000'
 

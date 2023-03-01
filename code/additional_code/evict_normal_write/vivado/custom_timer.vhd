@@ -1,11 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: Matteo Oldani
 -- 
 -- Create Date: 10/13/2022 10:11:01 AM
 -- Design Name: 
 -- Module Name: custum_timer - rtl
--- Project Name: 
+-- Project Name: Semester project Fall 2022
 -- Target Devices: 
 -- Tool Versions: 
 -- Description: 

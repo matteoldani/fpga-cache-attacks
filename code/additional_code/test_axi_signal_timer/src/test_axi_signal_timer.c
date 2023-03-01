@@ -1,3 +1,14 @@
+/**
+ * Semester project Fall 2022
+ * @file test_axi_signal_timer.c
+ * @author Matteo Oldani
+ * @version 0.1
+ * @date 2023-01-18
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include <stdio.h>
 #include "platform.h"
 #include "xil_printf.h"

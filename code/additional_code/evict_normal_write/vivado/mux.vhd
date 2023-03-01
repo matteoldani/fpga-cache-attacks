@@ -1,11 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: Matteo Oldani
 -- 
 -- Create Date: 10/24/2022 02:34:06 PM
 -- Design Name: 
 -- Module Name: mux - Behavioral
--- Project Name: 
+-- Project Name: Semester project Fall 2022
 -- Target Devices: 
 -- Tool Versions: 
 -- Description: 

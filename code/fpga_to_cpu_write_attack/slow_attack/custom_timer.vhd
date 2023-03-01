@@ -4,6 +4,7 @@
 -- Create Date: 10/13/2022 10:11:01 AM
 -- Design Name: Custom timer
 -- Module Name: custum_timer - rtl
+-- Project Name: Semester project Fall 2022
 -- Description: Custom timer able to time the length of an AXI write transaction 
                 handshake 
 ----------------------------------------------------------------------------------

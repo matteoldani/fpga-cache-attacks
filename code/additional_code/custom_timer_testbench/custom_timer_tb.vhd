@@ -1,11 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Engineer: Matteo Oldani
 -- 
 -- Create Date: 10/14/2022 08:52:02 PM
 -- Design Name: 
 -- Module Name: cutum_timer_tb - Behavioral
--- Project Name: 
+-- Project Name: Semester project Fall 2022
 -- Target Devices: 
 -- Tool Versions: 
 -- Description: 

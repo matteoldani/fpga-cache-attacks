@@ -1,4 +1,14 @@
- #include "ap_int.h"
+/**
+ * Semester project Fall 2022
+ * @file core.cpp
+ * @author Matteo Oldani
+ * @version 0.1
+ * @date 2023-01-18
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+#include "ap_int.h"
 #include "ap_utils.h"
 
 

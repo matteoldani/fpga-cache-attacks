@@ -1,3 +1,10 @@
+"""
+Semester project Fall 2022
+@author Matteo Oldani
+@version 0.1
+@date 2023-01-18
+
+"""
 from Crypto.Cipher import AES
 
 key = b'YELLOW SUBMARINE'

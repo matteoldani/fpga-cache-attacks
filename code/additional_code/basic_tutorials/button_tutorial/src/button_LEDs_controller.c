@@ -1,3 +1,13 @@
+/**
+ * Semester project Fall 2022
+ * @file button_LEDs_controller.c
+ * @author Matteo Oldani
+ * @version 0.1
+ * @date 2023-01-18
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
 #include "xparameters.h"
 #include "xgpio.h"
 #include "xscugic.h"

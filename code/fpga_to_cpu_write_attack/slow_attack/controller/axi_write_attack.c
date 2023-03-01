@@ -1,4 +1,5 @@
 /**
+ * Semester project Fall 2022
  * @file data_collection_paper.c
  * @author Matteo Oldani
  * @version 0.1
